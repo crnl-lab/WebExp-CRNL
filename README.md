@@ -1,8 +1,8 @@
-# NOW Workshop 2023 - Paris Brain institute
+# Online Experiment Workshop 2024 - CRNL
 
-This preparatory process should take you under 10 minutes.
+This preparatory process should take you under 10 minutes. It is necessary because internet connections in our institutes are sometimes inexistent, commonly bad and occasionally down.
 
-See you on November 22-23!
+See you on June 18th!
 
 ## Mandatory steps
 
@@ -22,11 +22,7 @@ If you have already a preferred editor and that you know how to use it, no need 
 
 ### Clone or download this folder
 
-Clone the following repository somewhere on your computer by using 
-```
-git clone https://github.com/robustcircuit/now-workshop
-```
-
+Clone the following repository somewhere on your computer.
 
 ##### Method 1: Download
 
@@ -37,10 +33,13 @@ Directly download and unzip the folder on your computer (green button Code > Dow
 
 ##### Method 2: Using Git
 
-Download [Git Bash](https://git-scm.com/)
+Download and install [Git Bash](https://git-scm.com/)
 
-Decide the location of the folder by using the command cd (E.g. cd Documents) and copy the git command described above
+Decide the location of the folder by using the command cd (E.g. cd Documents) and copy the following git command
 
+```
+git clone [https://github.com/robustcircuit/now-workshop](https://github.com/robustcircuit/WebExp-CRNL)
+```
 
 ##### Method 3: Using Visual Studio Code (and git!)
 
@@ -53,7 +52,7 @@ Open a new terminal (Ctrl+Shift+ç) and copy the git command described above
 
 If it is not done already, open a terminal and navigate to the 'server' subfolder of the repository you've just cloned/unzip.
 ```
-cd C:\Documents\now-workshop\server
+cd C:\Documents\WebExp-CRNL\server
 ```
 Note: To find the path of your folder, check its location under its properties.
 
