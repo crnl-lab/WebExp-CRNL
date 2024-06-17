@@ -26,9 +26,7 @@ Clone the following repository somewhere on your computer.
 
 ##### Method 1: Download
 
-Go to https://github.com/robustcircuit/now-workshop
-
-Directly download and unzip the folder on your computer (green button Code > Download Zip)
+Directly download and unzip the [folder](https://github.com/crnl-lab/WebExp-CRNL/archive/refs/heads/main.zip) on your computer (green button Code above > Download Zip)
 
 
 ##### Method 2: Using Git
@@ -38,7 +36,7 @@ Download and install [Git Bash](https://git-scm.com/)
 Decide the location of the folder by using the command cd (E.g. cd Documents) and copy the following git command
 
 ```
-git clone [https://github.com/robustcircuit/now-workshop](https://github.com/robustcircuit/WebExp-CRNL)
+git clone https://github.com/crnl-lab/WebExp-CRNL.git
 ```
 
 ##### Method 3: Using Visual Studio Code (and git!)
